@@ -1,0 +1,15 @@
+INDEX VERSION 1.131
+D:\InfoGrass_SJ\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\281918087.index
+\Sample\src
+D:\Programs_ServletsJsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1141309343.index
+\Sample\src
+D:\InfoGrass_SJ\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1141309343.index
+\Sample\src
+D:\Programs_ServletsJsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1052338780.index
+\SampleServletExample\src
+D:\Programs_ServletsJsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\281918087.index
+\Sample\src
+D:\InfoGrass_SJ\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1052338780.index
+\SampleServletExample\src
+D:\InfoGrass_SJ\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\770316398.index
+\SampleServlet\src
